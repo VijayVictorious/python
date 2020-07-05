@@ -1,0 +1,15 @@
+python for loop (5/7/2020)
+
+	for loop syntax
+
+		for i in range(start value , end value , step value):
+
+	number generation
+
+		for eg : 1 to n and n to 1
+
+		print even or odd in 1 to n
+
+		sum of natural numbers
+
+		product of natural numbers
